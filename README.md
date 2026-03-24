@@ -1,4 +1,4 @@
-<img width="888" height="1592" alt="image" src="https://github.com/user-attachments/assets/134d46e9-6273-4c7b-a38f-85db8e2a1cb5" />EXPT 2a: LINEAR CONVOLUTION-USING-DFT
+
 AIM
 To perform and verify linear convolution operation of two given sequences using SCILAB.
 
